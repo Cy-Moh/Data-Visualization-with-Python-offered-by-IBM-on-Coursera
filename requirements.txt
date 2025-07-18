@@ -1,0 +1,7 @@
+dash
+plotly
+pandas
+more-itertools
+Pillow
+pytesseract
+pdf2image

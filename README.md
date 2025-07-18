@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-This repository was my final assigment for the **"Data Visualisation with Python"** course offered by IBM on Coursera. Data visualization is the graphical representation of information and data, using visual elements like charts, graphs, and maps. It transforms raw data into a visual format, making it easier to understand trends, patterns, and outliers, especially in large datasets. This repository showcases my final project where I completed a fully interactive dashboard to explore historical automobile sales data using `Python`, `Dash` and `Plotly`.
+This repository was my final assigment for the **"Data Visualisation with Python"** course offered by **IBM** on Coursera. Data visualization is the graphical representation of information and data, using visual elements like charts, graphs, and maps. It transforms raw data into a visual format, making it easier to understand trends, patterns, and outliers, especially in large datasets. This repository showcases my final project where I completed a fully interactive dashboard to explore historical automobile sales data using `Python`, `Dash` and `Plotly`.
 
 ## 🚗 Project Overview
 
@@ -21,7 +21,6 @@ This dashboard allows users to explore:
 | `notebook/DV0101EN-Final-Assign-Part1.ipynb` | IBM course assignment and visualizations in a Jupyter Notebook. |
 | `dashboard/Dashboard_final.py` | A full-featured interactive dashboard built with Dash. |
 | `requirements.txt` | Dependencies needed to run the app locally. |
-| `assets/` | (Optional) CSS styling for customizing the layout. |
 
 ## 🚀 How to Run
 
